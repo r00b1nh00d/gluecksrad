@@ -1,6 +1,6 @@
 # Glücksrad
 ## ~avatar avatar @unplugged
-Wer ist dran mit auspacken?
+Wer ist dran mit auspacken? <br>
 ![Gluecksrad](https://github.com/r00b1nh00d/gluecksrad/blob/master/Gluecksrad.gif?raw=true)
 ## ~ @unplugged 
 Lass den Calliope per Zufall entscheiden in welcher Reihenfolge ihr eure Weihnachtsgeschenke auspackt.
